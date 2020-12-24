@@ -17,7 +17,7 @@ tensorflow安装教程（简略版）
 
 但我不建议你在这个环境里配，因为万一配错了 不好删除。
 
-在重新创建好一个环境后，在环境里面下载tensorflow，这里有两个方法下载
+在重新创建好一个环境后，在环境里面下载tensorflow，这里有两个方法下载（不要用pycharm的界面化下载，也不要用anaconda的图形化界面下载，肯定会出问题，不出问题你牛逼！）
 
 - conda install tensorflow=2.X
 - pip install tensorflow==2.X
